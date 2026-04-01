@@ -5,3 +5,6 @@ docs/task/
 
 # Competitor reference (never commit)
 competitor/
+
+# External source articles (copyrighted, never commit)
+source/
